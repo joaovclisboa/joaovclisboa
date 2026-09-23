@@ -17,9 +17,7 @@ I'm currently working as a **Software Engineering Intern at Google**, working on
 
 Previously, I worked as:
 - **Remote Sensing and AI Researcher** at Centro de Sensoriamento Remoto (CSR-UFMG)
-- **Data Science Researcher** at Stellantis South America
-- **IT Support** at FUMP (Fundação Universitária Mendes Pimentel)
-- **Municipal Social Attendant**
+- **Data Science Researcher** at Stellantis South America (DCC-UFMG/Stellantis Project)
 
 <br>
 
@@ -28,7 +26,7 @@ Previously, I worked as:
   <a href="https://www.linkedin.com/in/joaoclisboa/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:joaovitorclisboa@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
